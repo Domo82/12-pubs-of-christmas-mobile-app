@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Splash</string>
+
+    <string name="pubInformation">"Before you start you're epic crawl, why not check out the list of some of Dublins finest watering holes to whet your whistle and give you some inspiration on which establishments you and your friends should grace with your presence!"</string>
+
+    <string name="oneills">"O’Neill’s Bar is a genuine traditional Old Irish pub renowned for its friendly staff and patrons. Its great atmosphere and world-famous food are why people find it hard to leave.The O’Neill’s Bar and family have become synonymous with Suffolk Street with over 300 years of history in the association.It looks like a regular pub from the outside. But inside it’s a pleasure to drink in, with its various nooks and crannies, upstairs and down. Whether you want to enjoy the great pub atmosphere or find a quite corner for yourself, O’Neill’s Bar have it all."</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gallery">Take a picture or Upload an image of your 12 Pubs Journey </string>
+    <string name="textViewAdvert">Pease click on the screen below for our campaign against drink driving this christmas</string>
+
+
+</resources>
